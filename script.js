@@ -1,21 +1,21 @@
 let slide_data = [
     {
-        'src': 'img/image1.png',
+        'src': 'image1.png',
         'title': 'Hi Zahratul Aya,',
         'copy': 'Thank you for being patient with me.'
     },
     {
-        'src': 'img/image2.png',
+        'src': 'image2.png',
         'title': 'I realize that my way of communication may not always be good.',
         'copy': 'I will continue to strive to improve it, and believe me, I will always be there for you.'
     },
     {
-        'src': 'img/image3.png',
+        'src': 'image3.png',
         'title': 'I want to remind you to always upgrade yourself.',
         'copy': 'Utilize your time wisely, do not waste opportunities.'
     },
     {
-        'src': 'img/image4.png',
+        'src': 'image4.png',
         'title': 'Focus on your future, as it is the key to success.',
         'copy': 'Remember, for every difficulty, there is an opportunity for growth.'
     },
